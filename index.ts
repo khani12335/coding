@@ -1,3 +1,5 @@
 let name = "hello word"
 
-console.log(name)
+let program = "hello word 2"
+
+console.log(name + ' ' + program)

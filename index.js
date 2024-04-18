@@ -1,2 +1,3 @@
 var name = "hello word";
-console.log(name);
+var program = "hello word 2";
+console.log(name + ' ' + program);
